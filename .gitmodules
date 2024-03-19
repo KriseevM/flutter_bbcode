@@ -1,0 +1,3 @@
+[submodule "bbob_dart"]
+	path = bbob_dart
+	url = https://github.com/KriseevM/bbob_dart.git
